@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to the DevCat!"
 date:   2026-09-13 01:13:23 +0530
 categories: jekyll update
 ---
@@ -27,3 +27,10 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+<p>
+Hi, 
+I am a software engineer, who is into a little of everything. 
+</p>
+
+
